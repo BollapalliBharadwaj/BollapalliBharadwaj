@@ -7,21 +7,15 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/SRM%20University%20AP-8.09%20CGPA-7C3AED?style=for-the-badge&logo=googlescholar" />
-  <img src="https://img.shields.io/badge/Location-Andhra%20Pradesh%2C%20India-blue?style=for-the-badge&logo=googlemaps" />
+  <img src="https://img.shields.io/badge/SRM_University_AP-8.09_CGPA-7C3AED?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Andhra_Pradesh-India-7C3AED?style=for-the-badge" />
 </p>
 
 <p align="center">
   <a href="https://linkedin.com/in/bharadwaj-bollapalli-29b264291"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:bharadwajbollapalli@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/BollapalliBharadwaj"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Portfolio-Coming%20Soon-7C3AED?style=for-the-badge" /></a>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/github/views/BollapalliBharadwaj/BollapalliBharadwaj?style=flat-square&color=7C3AED" />
-  <img src="https://img.shields.io/github/followers/BollapalliBharadwaj?style=flat-square&color=7C3AED" />
-  <img src="https://img.shields.io/github/stars/BollapalliBharadwaj/BollapalliBharadwaj?style=flat-square&color=7C3AED" />
+  <a href="#"><img src="https://img.shields.io/badge/Portfolio-Coming_Soon-7C3AED?style=for-the-badge" /></a>
 </p>
 
 ---
@@ -60,14 +54,12 @@ I am a Computer Science Engineering student at SRM University AP, specializing i
 
 | Attribute | Details |
 | :--- | :--- |
-| **Stack** | Python, FastAPI, React, Ollama (Qwen 2.5) |
-| **Scale** | Multi-repo analysis & auditing |
-| **Performance** | Optimized static security analysis |
-| **Security** | Hardcoded credential & injection detection |
-| **Impact** | Automates repository health assessment |
+| **Stack** | Python, FastAPI, React, Ollama |
+| **Scale** | Multi-repo analysis |
+| **Performance** | Static security analysis |
+| **Security** | Credential detection |
+| **Impact** | Automates repo auditing |
 | **Repository** | [View Source](https://github.com/BollapalliBharadwaj/GitInsightAI) |
-
-*An AI-driven intelligent profiler providing deep static analysis and configuration security auditing for GitHub repositories.*
 </details>
 
 <details>
@@ -75,14 +67,12 @@ I am a Computer Science Engineering student at SRM University AP, specializing i
 
 | Attribute | Details |
 | :--- | :--- |
-| **Stack** | Google Gemini API, MongoDB, React |
-| **Scale** | Semantic search at scale |
-| **Performance** | Low-latency vector indexing |
-| **Security** | Google OAuth & Secure Session Auth |
-| **Impact** | Enhances document discovery via RAG |
+| **Stack** | Gemini API, MongoDB, React |
+| **Scale** | Vector search at scale |
+| **Performance** | Low-latency queries |
+| **Security** | Google OAuth |
+| **Impact** | AI-driven document discovery |
 | **Repository** | [View Source](https://github.com/BollapalliBharadwaj/CampusGPT) |
-
-*A custom RAG pipeline for intelligent PDF querying with a responsive, high-performance dashboard.*
 </details>
 
 <details>
@@ -91,13 +81,11 @@ I am a Computer Science Engineering student at SRM University AP, specializing i
 | Attribute | Details |
 | :--- | :--- |
 | **Stack** | Node.js, Express, MongoDB, React |
-| **Scale** | Concurrency-focused booking logic |
-| **Performance** | Optimized CRUD operations |
-| **Security** | JWT Authentication & RBAC |
-| **Impact** | Streamlined seat-booking management |
+| **Scale** | High-concurrency booking |
+| **Performance** | Optimized DB CRUD |
+| **Security** | JWT & RBAC |
+| **Impact** | Streamlined seat management |
 | **Repository** | [View Source](https://github.com/BollapalliBharadwaj/QuickShow) |
-
-*A comprehensive ticketing application architecture implementing complex state management and role-based access control.*
 </details>
 
 ---
@@ -122,10 +110,8 @@ I am a Computer Science Engineering student at SRM University AP, specializing i
 
 ### ✦ Certifications
 <p align="center">
-  <img src="https://img.shields.io/badge/AWS-Coming_Soon-7C3AED?style=flat-square" />
-  <img src="https://img.shields.io/badge/Oracle-Coming_Soon-7C3AED?style=flat-square" />
-  <img src="https://img.shields.io/badge/Cisco-Coming_Soon-7C3AED?style=flat-square" />
-  <img src="https://img.shields.io/badge/NPTEL-Coming_Soon-7C3AED?style=flat-square" />
+  <img src="https://img.shields.io/badge/MongoDB-Associate_Developer-47A248?style=for-the-badge&logo=mongodb" />
+  <img src="https://img.shields.io/badge/Edunet_Foundation-Internship_Certificate-7C3AED?style=for-the-badge" />
 </p>
 
 ---
@@ -151,23 +137,9 @@ I am a Computer Science Engineering student at SRM University AP, specializing i
 
 ---
 
-### ✦ GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=BollapalliBharadwaj&theme=radical&no-bg=true" />
-</p>
-
----
-
 ### ✦ Contribution Activity
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=BollapalliBharadwaj&theme=rebecca&area=true" />
-</p>
-
----
-
-### ✦ Contribution Snake
-<p align="center">
-  <img src="https://raw.githubusercontent.com/BollapalliBharadwaj/BollapalliBharadwaj/output/github-snake.svg" alt="Snake Animation" />
 </p>
 
 ---
