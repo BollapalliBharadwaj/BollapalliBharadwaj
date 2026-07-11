@@ -4,7 +4,7 @@
 ### 🚀 Aspiring AI Engineer | Full Stack Developer | CS Undergrad
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=500&color=9F7AEA&center=true&vCenter=true&width=500&lines=Software+Engineering+Student;AI+Systems+Enthusiast;Building+Scalable+Solutions;Open+Source+Contributor" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=500&color=9F7AEA&center=true&vCenter=true&width=500&lines=Software+Engineering+Student;AI+Systems+Enthusiast;Building+Scalable+Solutions;Open+Source+Contributor" />
 </p>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bharadwaj-bollapalli-29b264291)
@@ -13,57 +13,77 @@
 
 ---
 
-### 💻 Technical Stack
+### 🛠 Technical Stack
 
-### Languages
-<img src="https://skillicons.dev/icons?i=c,cpp,python,javascript" />
-
-### Frontend
-<img src="https://skillicons.dev/icons?i=html,css,react,vite,tailwind" />
-
-### Backend & Databases
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,mongodb,mysql,sqlite" />
-
-### AI & Tools
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel" />
-<p><i>Google Gemini API • Ollama • RAG • Vector Search • Prompt Engineering</i></p>
-
----
-
-### 🛠 Featured Projects
-
-| Project | Description | Tech Stack |
-| :--- | :--- | :--- |
-| **[GitInsight AI](https://github.com/BollapalliBharadwaj/GitInsightAI)** | AI-powered GitHub repository profiler & security auditor. | Python, FastAPI, React, Ollama |
-| **[CampusGPT](https://github.com/BollapalliBharadwaj/CampusGPT)** | AI-powered PDF Chat SaaS with custom RAG pipeline. | Gemini AI, MongoDB, React |
-| **[QuickShow](https://github.com/BollapalliBharadwaj/QuickShow)** | Movie Ticket Booking Platform with JWT auth & RBAC. | Node, Express, MongoDB, React |
-
----
-
-### 📊 GitHub Analytics
-
+**Languages**
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BollapalliBharadwaj&show_icons=true&theme=radical&include_all_commits=true&count_private=true" width="45%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BollapalliBharadwaj&layout=compact&theme=radical" width="45%" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,javascript" />
 </p>
 
+**Frontend & Backend**
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=BollapalliBharadwaj&theme=radical&no-bg=true&margin-w=10" />
+  <img src="https://skillicons.dev/icons?i=html,css,react,vite,tailwind,nodejs,express,fastapi" />
 </p>
 
+**Databases & Tools**
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BollapalliBharadwaj&theme=rebecca&area=true&hide_border=true" />
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite,git,github,vscode,postman,vercel" />
 </p>
 
 ---
 
-### 🎓 Education & Professional Focus
-* **SRM University AP** | B.Tech Computer Science Engineering | 2023 - 2027
-* **Internship**: Full Stack Web Development @ Edunet Foundation (IBM SkillsBuild)
+### 📂 Featured Projects
+
+<details>
+<summary><b>GitInsight AI</b> — AI-powered repository profiler & security auditor.</summary>
+<br>
+Build using Python, FastAPI, React, and Ollama. Performs static analysis and configuration auditing.
+<br>
+<a href="https://github.com/BollapalliBharadwaj/GitInsightAI">Repository</a> | <a href="https://git-insight-ai-livid.vercel.app/">Live Demo</a>
+</details>
+
+<details>
+<summary><b>CampusGPT</b> — AI-powered PDF Chat SaaS with custom RAG pipeline.</summary>
+<br>
+Features real-time semantic search using Google Gemini embeddings and MongoDB.
+<br>
+<a href="https://github.com/BollapalliBharadwaj/CampusGPT">Repository</a> | <a href="https://campus-gpt-xi.vercel.app/">Live Demo</a>
+</details>
+
+<details>
+<summary><b>QuickShow</b> — Movie Ticket Booking Platform.</summary>
+<br>
+Full-stack implementation featuring JWT authentication, REST APIs, and role-based access control.
+<br>
+<a href="https://github.com/BollapalliBharadwaj/QuickShow">Repository</a>
+</details>
+
+---
+
+### 📊 GitHub Insights
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=BollapalliBharadwaj&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BollapalliBharadwaj&layout=compact&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=BollapalliBharadwaj&theme=radical&no-bg=true" />
+</p>
+
+### 🐍 Contribution Activity
+<p align="center">
+  <img src="https://github.com/BollapalliBharadwaj/BollapalliBharadwaj/blob/output/github-snake.svg" alt="Snake Animation" />
+</p>
+
+---
+
+### 🎓 Education & Info
+* **University**: SRM University AP | B.Tech CSE (2027)
+* **Experience**: Full Stack Intern @ Edunet Foundation (IBM SkillsBuild)
 
 ```yaml
 Current_Focus:
-  - Learning: Advanced RAG architectures and LLM integration
-  - Building: Production-ready SaaS applications
-  - Exploring: Open source contributions in AI/ML
-  - Goal: Software Engineering Internships (AI/Backend/Full Stack)
+  - Learning: RAG & LLM Workflows
+  - Building: Production-grade Full Stack Apps
+  - Availability: Open to Internships
