@@ -55,10 +55,7 @@ I am a Computer Science Engineering student at SRM University AP, specializing i
 | Attribute | Details |
 | :--- | :--- |
 | **Stack** | Python, FastAPI, React, Ollama |
-| **Scale** | Multi-repo analysis |
-| **Performance** | Static security analysis |
-| **Security** | Credential detection |
-| **Impact** | Automates repo auditing |
+| **Impact** | Automates repository auditing |
 | **Repository** | [View Source](https://github.com/BollapalliBharadwaj/GitInsightAI) |
 </details>
 
@@ -68,9 +65,6 @@ I am a Computer Science Engineering student at SRM University AP, specializing i
 | Attribute | Details |
 | :--- | :--- |
 | **Stack** | Gemini API, MongoDB, React |
-| **Scale** | Vector search at scale |
-| **Performance** | Low-latency queries |
-| **Security** | Google OAuth |
 | **Impact** | AI-driven document discovery |
 | **Repository** | [View Source](https://github.com/BollapalliBharadwaj/CampusGPT) |
 </details>
@@ -81,30 +75,9 @@ I am a Computer Science Engineering student at SRM University AP, specializing i
 | Attribute | Details |
 | :--- | :--- |
 | **Stack** | Node.js, Express, MongoDB, React |
-| **Scale** | High-concurrency booking |
-| **Performance** | Optimized DB CRUD |
-| **Security** | JWT & RBAC |
 | **Impact** | Streamlined seat management |
 | **Repository** | [View Source](https://github.com/BollapalliBharadwaj/QuickShow) |
 </details>
-
----
-
-### ✦ Experience
-**Full Stack Web Development Intern** | *Edunet Foundation / IBM SkillsBuild*
-*   Architected modular full-stack solutions following enterprise standards.
-*   Managed backend service integration and API development.
-*   Skills: `JavaScript` `Node.js` `React` `Database Management`
-
----
-
-### ✦ Achievements
-| Recognition | Details |
-| :--- | :--- |
-| AI Projects | Deployed RAG & Agentic systems |
-| Production Apps | Multiple scalable web deployments |
-| Problem Solving | Competitive DSA foundations |
-| GitHub Activity | Consistent open-source engagement |
 
 ---
 
@@ -116,37 +89,34 @@ I am a Computer Science Engineering student at SRM University AP, specializing i
 
 ---
 
-### ✦ Coding Profiles
-<p align="center">
-  <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode" />
-  <img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks" />
-  <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank" />
-  <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef" />
-</p>
-
----
-
 ### ✦ GitHub Analytics
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=BollapalliBharadwaj&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
+  <br>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=BollapalliBharadwaj&theme=radical" />
-</p>
-<p align="center">
+  <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BollapalliBharadwaj&layout=compact&theme=radical" />
 </p>
 
 ---
 
-### ✦ Contribution Activity
+### ✦ Contribution Activity & Snake
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=BollapalliBharadwaj&theme=rebecca&area=true" />
+</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/BollapalliBharadwaj/BollapalliBharadwaj/output/github-snake.svg" alt="Snake Animation" />
 </p>
 
 ---
 
-### ✦ Current Focus
-```yaml
-Learning: Advanced Distributed Systems & LLM Agentic Workflows
-Building: Production-ready AI-Native SaaS
-Exploring: Vector Database Optimization
-Open To: Internship Opportunities (SWE / AI / Backend)
+### ✦ Connect
+<p align="center">
+  <a href="mailto:bharadwajbollapalli@gmail.com">Gmail</a> • 
+  <a href="https://linkedin.com/in/bharadwaj-bollapalli-29b264291">LinkedIn</a> • 
+  <a href="https://github.com/BollapalliBharadwaj">GitHub</a>
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" />
+
+</div>
